@@ -1,1 +1,0 @@
-{"version":3,"sources":["index.css"],"names":[],"mappings":"AAAA,KACI,YAAa,CACb,YACJ,CAEA,QACI,SACJ","file":"main.0c07f884.chunk.css","sourcesContent":[".svg{\n    width: 1000px;\n    height: 600px;\n}\n\n.stroke{\n    fill: #ffffff;\n}\n"]}
